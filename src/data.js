@@ -106,7 +106,7 @@ export const skills = [
     color: 'text-teal-400',
     description: 'Estilização rápida e responsiva de interfaces de usuário.',
     category: 'Frameworks & Bibliotecas',
-    level: 'Básico',
+    level: 'Intermediário',
   },
   // Banco de Dados
   {
@@ -115,7 +115,7 @@ export const skills = [
     color: 'text-orange-400',
     description: 'Criação e manipulação de bancos de dados relacionais.',
     category: 'Banco de Dados',
-    level: 'Básico',
+    level: 'Intermediário',
   },
   // Ferramentas & DevOps
   {
@@ -157,7 +157,7 @@ export const skills = [
     color: 'text-blue-300',
     description: 'Abordagem lógica para identificar e solucionar desafios técnicos.',
     category: 'Soft Skills', 
-    level: 'Básico',
+    level: 'Intermediário',
   },
 ];
 
