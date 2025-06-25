@@ -166,39 +166,40 @@ export const experiences = [
     title: 'Técnico de Informática',
     company: 'Colégio Santo Antônio',
     period: 'Abril 2025 - Atual',
-    description: 'Responsável por infraestrutura tecnológica para mais de 3000 usuários, garantindo a continuidade e segurança dos serviços educacionais.',
+    description: 'No Colégio Santo Antônio, sou responsável por garantir que a infraestrutura tecnológica atenda eficientemente a comunidade escolar, assegurando a continuidade e a segurança dos serviços educacionais.',
     achievements: [
-      'Manutenção de 99% de disponibilidade dos serviços de TI',
-      'Redução de 30% em chamados de suporte com otimização de processos',
-      'Gestão de parque com 300+ computadores e 5 laboratórios',
-      'Melhora de 40% no desempenho das workstations após atualização'
+      'Manutenção da alta disponibilidade dos serviços de TI, minimizando interrupções nas atividades.',
+      'Contribuí para uma notável redução nos chamados de suporte através da otimização de processos.',
+      'Gerenciamento do parque tecnológico da instituição, incluindo computadores e laboratórios.',
+      'Promovi uma melhora expressiva no desempenho das estações de trabalho após atualizações.'
     ]
   },
   {
     title: 'Estagiário de TI',
     company: 'Prefeitura de Belo Horizonte',
     period: 'Outubro 2024 - Março 2025',
-    description: 'Contribuição para a modernização da infraestrutura de TI e a eficiência dos serviços públicos através do suporte técnico e da automação de processos.',
+    description: 'Na Prefeitura de Belo Horizonte, colaborei para a modernização da infraestrutura de TI e a eficiência dos serviços públicos, oferecendo suporte técnico e desenvolvendo automação de processos.',
     achievements: [
-      'Automação de relatórios (-5h de trabalho manual/semana)',
-      'Resolução de 200+ tickets com 95% de satisfação do usuário',
-      'Modernização e suporte para mais de 50 estações de trabalho',
-      'Criação de documentação: -25% no tempo de integração de usuários'
+      'Implementação de automação de relatórios, economizando horas de trabalho manual para a equipe.',
+      'Atendimento de inúmeros tickets de suporte com um índice de alta satisfação dos usuários.',
+      'Apoio na modernização e suporte de diversas estações de trabalho.',
+      'Criação de documentações que agilizaram significativamente o tempo de integração de novos usuários.'
     ]
   },
   {
     title: 'Editor de Mídias | Supervisor',
     company: 'Sierra Poker Sports',
     period: 'Julho 2022 - Julho 2023',
-    description: 'Liderança da estratégia de conteúdo e da presença digital da empresa, gerenciando equipe e produção de mídia para múltiplos canais.',
+    description: 'No Sierra Poker Sports, liderei a estratégia de conteúdo e a presença digital, supervisionando a equipe e a produção de mídia para diversos canais.',
     achievements: [
-      '+150% de engajamento nas redes sociais',
-      '+25% de crescimento na base de seguidores em 1 ano',
-      'Transmissões ao vivo para milhares de espectadores',
-      'Supervisão de equipe e otimização do fluxo de conteúdo'
+      'Aumento substancial do engajamento nas redes sociais.',
+      'Crescimento considerável na base de seguidores.',
+      'Gerenciamento de transmissões ao vivo para um vasto público.',
+      'Supervisão da equipe e otimização do fluxo de produção de conteúdo.'
     ]
   }
 ];
+
 
 export const githubProjects = [
   {
